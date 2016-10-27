@@ -1,0 +1,31 @@
+typography_spectrum: 0.25650909659452736
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.8257154822349548
+  lightness: 0.6959954965859652
+  saturation: 0.8166418673936278
+  rhythmicContrast: 0.12289948971010745
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.45914673153311014
+author:
+  name: Ronestone Entertainment & Media Company
+  url: www.ronestoneent.com
+  email: info@ronestone.com
+name: Elevate TV Network
+title: Elevate TV
+content: []
+description: The All New Network
+purpose:
+  - type: external
+    url: 'http://www.ronestoneent.com'
+    label: Ronestone Entertainment & Media company
