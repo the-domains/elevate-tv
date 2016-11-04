@@ -33,13 +33,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.google.com/amp/www.nbcnews.com/news/nbcblk/amp/150-year-old-law-revives-byron-allens-racial-discrimination-suit-n675706
 title: 150-Year-Old law revives Byron Allen's racial discrimination suit
-datePublished: '2016-11-04T04:50:00.482Z'
-dateModified: '2016-11-04T04:49:52.082Z'
+datePublished: '2016-11-04T05:13:32.066Z'
+dateModified: '2016-11-04T05:13:31.667Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2016-11-04-150-year-old-law-revives-byron-allens-racial-discrimination.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
