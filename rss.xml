@@ -4,9 +4,9 @@
         <description><![CDATA[Elevate TV]]></description>
         <link>http://elevatetv.tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 08 Jun 2017 12:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2018 18:02:37 GMT</lastBuildDate>
         <atom:link href="http://elevatetv.tv/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jun 2017 12:19:18 GMT</pubDate>
+        <pubDate>Sat, 27 Jan 2018 18:02:36 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdj89ugzAMh-88RZZTe0hCgUL_kB523htMO5iEsnQpiXBQhda9-1K1m1B9s7-frc81qsH4QACnXhEclKRCeOha0BnvnOtsG4k2CoJxPVfu_KDihAI0NtM9xE9ID7W4Xzsk9Qtj5PUtI4zFxvRIlAVESWcrNCG3wjDZVlJt0FuYdo116uuBNARgoJmypu2DpAqYHxuWZ2WaF6tqm5bVpqjWT2m0LmbLdLUp8rRab5_w0Q1niAEYg7spR7mo-Ce-mAkSSS6m1-7C58Prlbx_LLkf8XPx_bPcJ_9f_wL3_2nr" height="244"></iframe>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Mon, 22 May 2017 00:33:55 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hourly Club]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtylEKwjAMgOGrhBxg8UGGSFvBi0i2tU2gq9KmiLd3vvv6_b9jkBaTF7NXvxLJc7TymdYyFrr9wl0tjbr14HTP0Nvq8d-rO-fYaeFaY3uc58uUNSFwMY8Ib91MPB6MIFGzHDqfECg44vAFGpQr9g" height="60"></iframe>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwVylEKwyAMANCrhByg2ccoY1QHvUixVk3A2qKRstuv-308n_tKnxqimUVjL1uzk-wJWvUGWfVsbyI-es3fwf-v7C6FRqsrJdTlOb6GJBHBZTWIcMmmbPBmBA6S-NbxgUB2Imd_OLMjuw" height="60"></iframe>,<h1>Hourly Club</h1>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJwVylEKwyAMANCrhByg2ccoY1QHvUixVk3A2qKRstuv-308n_tKnxqimUVjL1uzk-wJWvUGWfVsbyI-es3fwf-v7C6FRqsrJdTlOb6GJBHBZTWIcMmmbPBmBA6S-NbxgUB2Imd_OLMjuw</link>
+            <guid isPermaLink="false">dc06bdf7-3760-4062-8f7d-32a138ddda0c</guid>
+            <pubDate>Sat, 27 Jan 2018 18:02:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[RoneStone Entertainment & Media Company - Intro #01]]></title>
             <description><![CDATA[<p>RoneStone Entertainment &amp; Media Company </p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsDIUhny-ZZE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsDIUhny-ZZE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsDIUhny-ZZE%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>http://elevatetv.tv/ronestone-entertainment-and-media-company-intro-01/index.html</link>
@@ -69,13 +76,6 @@
             <link>http://www.cmo.com/features/articles/2017/4/24/the-story-behind-tubemogul-tlp.html?cid=fb&amp;kwp_0=402193&amp;kwp_4=1518384&amp;kwp_1=660103#gs.DQtfzew</link>
             <guid isPermaLink="false">c3fbdc08-81f2-464f-9699-f02892192f5f</guid>
             <pubDate>Thu, 08 Jun 2017 12:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World's Cheapest Private Jet Is a Game Changer]]></title>
-            <description><![CDATA[<article><h1>The World&apos;s Cheapest Private Jet Is a Game Changer</h1><p>The Cirrus Vision Jet is now the most affordable private jet in existence. Coming in at $1.96 million USD, the aircraft is roughly half the price of its nearest competitor. According to Cirrus&apos; vice president of marketing and communications, Ben Kowalski, the Vision Jet is 10 years in the making, as the production model made its first flight just last year.</p><img src="http://static.highsnobiety.com/wp-content/uploads/2017/05/26192849/worlds-cheapest-private-jet-000.jpg"></article>]]></description>
-            <link>http://www.highsnobiety.com/2017/05/26/worlds-cheapest-private-jet/</link>
-            <guid isPermaLink="false">75629aa8-0a66-45a3-b993-902c01745555</guid>
-            <pubDate>Fri, 26 May 2017 22:12:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
