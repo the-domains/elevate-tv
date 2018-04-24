@@ -1,6 +1,5 @@
-typography_spectrum: 0.25650909659452736
-content_rating:
-  adult: false
+layout_spectrum: 0.20789425160164143
+typography_spectrum: 0.6938457620303413
 color:
   brandColors:
     - '#FFFFFF'
@@ -8,15 +7,18 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.8257154822349548
-  lightness: 0.6959954965859652
-  saturation: 0.8166418673936278
-  rhythmicContrast: 0.12289948971010745
+  brandStrength: 0.2618926604125317
+  lightness: 0.45973150119332984
+  saturation: 0.44416004874208703
+  rhythmicContrast: 0.42853393349270935
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.45914673153311014
+analytics:
+  google: UA-99645140-1
 author:
   name: Ronestone Entertainment & Media Company
   url: www.ronestoneent.com
@@ -24,12 +26,43 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/23988dee-fa60-4396-8379-0480ef270a3a.png
 name: Elevate TV Network
+navigation:
+  - name: RoneStone Entertainment & Media
+    url: 'http://www.ronestoneent.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc5716c-6b4d-454c-9428-0eae628dcd3b.png
 title: Elevate TV
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2244e4dfb4b22e2d73c97b63feea23feaa18c7df.png">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/2244e4dfb4b22e2d73c97b63feea23feaa18c7df.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: The All New Network
 purpose:
   - type: external
     url: 'http://www.ronestoneent.com'
     label: Ronestone Entertainment & Media company
+  - type: external
+    url: 'http://bit.ly/2qRWSua'
+    label: dajondoes.com
